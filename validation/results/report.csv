@@ -1,0 +1,17 @@
+Desalination module:,,
+
+Feed temperature at the outlet of the module =, 29.1862467982, °C
+Coolant temperature at the outlet of the module =, 70.8606018541, °C
+Temperature at the interface between the feed and the membrane =, 53.5091493911, °C
+Temperature at the interface between the membrane and the gap =, 51.3811521054, °C
+Temperature at the interface between the gap and the distillate film =, 47.3191684932, °C
+Temperature at the interface between the distillate film and the wall =, 46.4981151179, °C
+Temperature at the interface between the coolant and the wall =, 46.3542660985, °C
+Feed salinity at the outlet of the module =, 24.6269537630, wt%
+Mass flux =, 0.0360099766, kg/m²h
+Heat flux =, 812.0505792669, W/m²
+Vapor heat flux =, 15.1551822070, W/m²
+Gain-output ratio (GOR) =, 0.1039436764,
+Specific thermal energy consumption (SECth) =, 4048.9298218705, kWh/m³
+Thermal efficiency =, 1.8662854992,%
+Feed mass flowrate at the outlet of the module =, 0.1277237367, kg/s
